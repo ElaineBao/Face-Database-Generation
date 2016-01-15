@@ -1,0 +1,726 @@
+﻿
+Dialogue: 0,0:00:49.96,0:00:52.84,eng,,0,0,0,,There's nothing to tell. It's just some guy I work with.
+
+Dialogue: 0,0:00:52.96,0:00:55.40,eng,,0,0,0,,Come on. You're going out with a guy.
+
+Dialogue: 0,0:00:55.41,0:00:56.96,eng,,0,0,0,,There's gotta be something wrong with him.
+
+Dialogue: 0,0:00:58.05,0:00:59.96,eng,,0,0,0,,So does he have a hump and a hairpiece?
+
+Dialogue: 0,0:01:02.44,0:01:03.84,eng,,0,0,0,,Wait. Does he eat chalk?
+
+Dialogue: 0,0:01:04.96,0:01:08.32,eng,,0,0,0,,Just I don't want her to go through what I went through with Carl.
+
+Dialogue: 0,0:01:08.44,0:01:10.10,eng,,0,0,0,,Okay, everybody relax.
+
+Dialogue: 0,0:01:10.16,0:01:11.43,eng,,0,0,0,,This is not even a date.
+
+Dialogue: 0,0:01:11.44,0:01:14.48,eng,,0,0,0,,It's just two people going out to dinner and not having sex.
+
+Dialogue: 0,0:01:14.72,0:01:16.24,eng,,0,0,0,,Sounds like a date to me.
+
+Dialogue: 0,0:01:19.20,0:01:20.44,eng,,0,0,0,,I'm back in high school,
+
+Dialogue: 0,0:01:20.45,0:01:21.96,eng,,0,0,0,, in the middle of the cafeteria...
+
+Dialogue: 0,0:01:22.08,0:01:24.60,eng,,0,0,0,,...and I realize I'm totally
+
+Dialogue: 0,0:01:24.62,0:01:25.52,eng,,0,0,0,, naked.
+
+Dialogue: 0,0:01:25.62,0:01:27.24,eng,,0,0,0,,-Oh, yeah.  -I've had that dream.
+
+Dialogue: 0,0:01:27.37,0:01:30.88,eng,,0,0,0,,Then I look down and I realize there is a phone...
+
+Dialogue: 0,0:01:32.05,0:01:33.16,eng,,0,0,0,,...there.
+
+Dialogue: 0,0:01:35.00,0:01:36.92,eng,,0,0,0,,-Instead of...  -That's right!
+
+Dialogue: 0,0:01:37.05,0:01:38.36,eng,,0,0,0,,That one, I've never had.
+
+Dialogue: 0,0:01:38.37,0:01:41.24,eng,,0,0,0,,All of a sudden, the phone starts to ring.
+
+Dialogue: 0,0:01:43.06,0:01:44.88,eng,,0,0,0,,And it turns out it's my mother.
+
+Dialogue: 0,0:01:46.56,0:01:49.00,eng,,0,0,0,,Which is very, very weird because...
+
+Dialogue: 0,0:01:49.56,0:01:51.92,eng,,0,0,0,,...she never calls me.
+
+Dialogue: 0,0:01:58.78,0:02:01.32,eng,,0,0,0,,This guy says "hello," I wanna kill myself.
+
+Dialogue: 0,0:02:02.24,0:02:03.52,eng,,0,0,0,,Are you okay, sweetie?
+
+Dialogue: 0,0:02:03.66,0:02:08.33,eng,,0,0,0,,I feel like someone grabbed my small intestine, pulled it out of my mouth...
+
+Dialogue: 0,0:02:08.35,0:02:11.04,eng,,0,0,0,,...and tied it around my neck.  -Cookie?
+
+Dialogue: 0,0:02:13.56,0:02:14.96,eng,,0,0,0,,Carol moved her stuff out today.
+
+Dialogue: 0,0:02:16.14,0:02:18.09,eng,,0,0,0,,-Let me get you some coffee.  -Thanks.
+
+Dialogue: 0,0:02:22.72,0:02:26.08,eng,,0,0,0,,No. No, don't! Stop cleansing my aura.
+
+Dialogue: 0,0:02:27.44,0:02:29.80,eng,,0,0,0,,Just leave my aura alone, okay?
+
+Dialogue: 0,0:02:31.40,0:02:34.80,eng,,0,0,0,,I'll be fine. All right? Really. I hope she'll be very happy.
+
+Dialogue: 0,0:02:34.82,0:02:35.96,eng,,0,0,0,,-No, you don't.  -No, I don't.
+
+Dialogue: 0,0:02:35.97,0:02:38.20,eng,,0,0,0,,To hell with her. She left me!
+
+Dialogue: 0,0:02:39.28,0:02:41.24,eng,,0,0,0,,And you never knew she was a lesbian.
+
+Dialogue: 0,0:02:45.36,0:02:47.00,eng,,0,0,0,,No! Okay?
+
+Dialogue: 0,0:02:47.60,0:02:50.48,eng,,0,0,0,,Why does everyone keep fixating on that?
+
+Dialogue: 0,0:02:51.96,0:02:54.32,eng,,0,0,0,,She didn't know. How should I know?
+
+Dialogue: 0,0:02:56.64,0:02:59.04,eng,,0,0,0,,Sometimes I wish I was a lesbian.
+
+Dialogue: 0,0:03:00.92,0:03:02.96,eng,,0,0,0,,Did I say that out loud?
+
+Dialogue: 0,0:03:04.92,0:03:06.56,eng,,0,0,0,,All right, Ross. Look...
+
+Dialogue: 0,0:03:07.00,0:03:09.03,eng,,0,0,0,,...you're feeling a lot of pain right now.
+
+Dialogue: 0,0:03:09.06,0:03:11.48,eng,,0,0,0,,You're angry. You're hurting.
+
+Dialogue: 0,0:03:11.73,0:03:13.00,eng,,0,0,0,,Can I tell you what the answer is?
+
+Dialogue: 0,0:03:14.16,0:03:15.52,eng,,0,0,0,,Strip joints!
+
+Dialogue: 0,0:03:17.72,0:03:20.04,eng,,0,0,0,,Come on, you're single. Have some hormones.
+
+Dialogue: 0,0:03:20.05,0:03:22.28,eng,,0,0,0,,See, but I don't want to be single, okay?
+
+Dialogue: 0,0:03:22.72,0:03:25.48,eng,,0,0,0,,I just wanna be married again.
+
+Dialogue: 0,0:03:29.72,0:03:32.80,eng,,0,0,0,,And I just want a million dollars!
+
+Dialogue: 0,0:03:34.21,0:03:34.76,eng,,0,0,0,,Rachel?
+
+Dialogue: 0,0:03:35.46,0:03:38.28,eng,,0,0,0,,Oh, God, Monica! Hi! Thank God!
+
+Dialogue: 0,0:03:38.29,0:03:40.10,eng,,0,0,0,,I went to your building  and you weren't there.
+
+Dialogue: 0,0:03:40.11,0:03:41.64,eng,,0,0,0,,and this guy with a hammer said...
+
+Dialogue: 0,0:03:41.67,0:03:44.00,eng,,0,0,0,,...that you might be here, and you are.
+
+Dialogue: 0,0:03:44.14,0:03:47.52,eng,,0,0,0,,-Can I get you some coffee?  -Decaf.
+
+Dialogue: 0,0:03:48.32,0:03:50.58,eng,,0,0,0,,Okay, everybody, this is Rachel
+
+Dialogue: 0,0:03:50.78,0:03:52.40,eng,,0,0,0,,another Lincoln High survivor.
+
+Dialogue: 0,0:03:52.44,0:03:54.96,eng,,0,0,0,,This is everybody. This is Chandler and Phoebe...
+
+Dialogue: 0,0:03:54.97,0:03:56.22,eng,,0,0,0,,...and Joey.
+
+Dialogue: 0,0:03:56.25,0:03:57.52,eng,,0,0,0,,And remember my brother, Ross?
+
+Dialogue: 0,0:03:57.64,0:03:59.00,eng,,0,0,0,,-Sure!  -Hey.
+
+Dialogue: 0,0:03:59.28,0:04:00.40,eng,,0,0,0,,Oh, God.
+
+Dialogue: 0,0:04:08.76,0:04:10.28,eng,,0,0,0,,So you wanna tell us now
+
+Dialogue: 0,0:04:10.30,0:04:12.20,eng,,0,0,0,,or are we waiting for four wet bridesmaids?
+
+Dialogue: 0,0:04:14.40,0:04:19.16,eng,,0,0,0,,Oh, God! Well, it started about a half-hour before the wedding.
+
+Dialogue: 0,0:04:19.56,0:04:22.00,eng,,0,0,0,,I was in this room with all the presents...
+
+Dialogue: 0,0:04:22.40,0:04:24.00,eng,,0,0,0,,...and I was looking at this gravy boat.
+
+Dialogue: 0,0:04:24.24,0:04:27.55,eng,,0,0,0,,This really gorgeous Limoges gravy boat.
+
+Dialogue: 0,0:04:27.84,0:04:29.60,eng,,0,0,0,,When all of a sudden... Sweet 'N Low?
+
+Dialogue: 0,0:04:29.72,0:04:31.28,eng,,0,0,0,,I realized...
+
+Dialogue: 0,0:04:32.12,0:04:35.80,eng,,0,0,0,,...I was more turned on by this gravy boat than by Barry.
+
+Dialogue: 0,0:04:36.10,0:04:39.15,eng,,0,0,0,,Then I got really freaked out, and that's when it hit me:
+
+Dialogue: 0,0:04:39.17,0:04:41.40,eng,,0,0,0,,How much Barry looks like Mr. Potato Head.
+
+Dialogue: 0,0:04:42.40,0:04:45.08,eng,,0,0,0,,You know, I mean, I always knew he looked familiar, but...
+
+Dialogue: 0,0:04:47.95,0:04:51.29,eng,,0,0,0,,Anyway, I just had to get out of there, and I started wondering:
+
+Dialogue: 0,0:04:51.54,0:04:52.88,eng,,0,0,0,,"Why am I doing this?"
+
+Dialogue: 0,0:04:52.89,0:04:54.80,eng,,0,0,0,,And "Who am I doing this for?"
+
+Dialogue: 0,0:04:55.36,0:04:57.54,eng,,0,0,0,,Anyway, I just didn't know where to go
+
+Dialogue: 0,0:04:57.55,0:04:59.76,eng,,0,0,0,,and I know you and I have kinda drifted apart...
+
+Dialogue: 0,0:05:00.08,0:05:02.76,eng,,0,0,0,,...but you're the only person I know in the city.
+
+Dialogue: 0,0:05:03.12,0:05:04.68,eng,,0,0,0,,Who wasn't invited to the wedding.
+
+Dialogue: 0,0:05:05.08,0:05:07.20,eng,,0,0,0,,Oh, I was kind of hoping that wouldn't be an issue.
+
+Dialogue: 0,0:05:22.07,0:05:24.57,eng,,0,0,0,,I'm guessing he bought her the big pipe organ...
+
+Dialogue: 0,0:05:24.58,0:05:26.08,eng,,0,0,0,,...and she's really not happy about it.
+
+Dialogue: 0,0:05:28.60,0:05:31.56,eng,,0,0,0,,Daddy, I just... I can't marry him.
+
+Dialogue: 0,0:05:31.72,0:05:33.33,eng,,0,0,0,,I'm sorry.
+
+Dialogue: 0,0:05:33.56,0:05:35.68,eng,,0,0,0,,I just don't love him.
+
+Dialogue: 0,0:05:36.88,0:05:39.20,eng,,0,0,0,,Well, it matters to me.
+
+Dialogue: 0,0:05:41.72,0:05:45.08,eng,,0,0,0,,She should not be wearing those pants.
+
+Dialogue: 0,0:05:45.84,0:05:48.16,eng,,0,0,0,,I say push her down the stairs.
+
+Dialogue: 0,0:05:48.17,0:05:51.00,eng,,0,0,0,,Push her down the stairs! Push her down the stairs!
+
+Dialogue: 0,0:05:55.28,0:05:57.32,eng,,0,0,0,,Come on, Daddy, listen to me!
+
+Dialogue: 0,0:05:57.52,0:06:00.32,eng,,0,0,0,,It's like all of my life, everyone's always told me
+
+Dialogue: 0,0:06:00.40,0:06:01.24,eng,,0,0,0,,"You're a shoe!
+
+Dialogue: 0,0:06:02.04,0:06:04.24,eng,,0,0,0,,You're a shoe! You're a shoe! You're a shoe!"
+
+Dialogue: 0,0:06:04.44,0:06:07.72,eng,,0,0,0,,Then today I stopped and said, "What if I don't wanna be a shoe?
+
+Dialogue: 0,0:06:07.92,0:06:10.44,eng,,0,0,0,,What if I wanna be a purse? You know?
+
+Dialogue: 0,0:06:10.45,0:06:12.48,eng,,0,0,0,,Or a hat?"
+
+Dialogue: 0,0:06:14.00,0:06:15.48,eng,,0,0,0,,I don't want you to buy me a hat
+
+Dialogue: 0,0:06:15.49,0:06:16.60,eng,,0,0,0,,I am saying I am a hat.
+
+Dialogue: 0,0:06:16.61,0:06:18.52,eng,,0,0,0,,It's a metaphor, Daddy!
+
+Dialogue: 0,0:06:20.64,0:06:22.44,eng,,0,0,0,,You can see where he'd have trouble.
+
+Dialogue: 0,0:06:25.80,0:06:27.60,eng,,0,0,0,,Look, Daddy, it's my life.
+
+Dialogue: 0,0:06:28.84,0:06:31.36,eng,,0,0,0,,Well, maybe I'll just stay here with Monica.
+
+Dialogue: 0,0:06:34.60,0:06:36.88,eng,,0,0,0,,I guess we've established she's staying with Monica.
+
+Dialogue: 0,0:06:38.89,0:06:41.20,eng,,0,0,0,,Well, maybe that's my decision.
+
+Dialogue: 0,0:06:42.44,0:06:44.52,eng,,0,0,0,,Well, maybe I don't need your money.
+
+Dialogue: 0,0:06:44.76,0:06:46.94,eng,,0,0,0,,Wait! Wait! I said maybe!
+
+Dialogue: 0,0:06:54.16,0:06:56.20,eng,,0,0,0,,Okay. Just breathe, that's it.
+
+Dialogue: 0,0:06:56.33,0:06:58.88,eng,,0,0,0,,Just try to think of nice, calm things.
+
+Dialogue: 0,0:06:59.28,0:07:03.20,eng,,0,0,0,,Raindrops on roses and whiskers on kittens
+
+Dialogue: 0,0:07:03.25,0:07:07.32,eng,,0,0,0,,Doorbells and sleigh bells and something with mittens
+
+Dialogue: 0,0:07:07.96,0:07:11.32,eng,,0,0,0,,La la la something With string
+
+Dialogue: 0,0:07:11.64,0:07:12.84,eng,,0,0,0,,I'm all better now.
+
+Dialogue: 0,0:07:15.24,0:07:17.16,eng,,0,0,0,,I helped.
+
+Dialogue: 0,0:07:18.85,0:07:21.28,eng,,0,0,0,,Look, this is probably for the best, you know?
+
+Dialogue: 0,0:07:21.52,0:07:24.16,eng,,0,0,0,,Independence. Taking control of your life.
+
+Dialogue: 0,0:07:24.27,0:07:28.61,eng,,0,0,0,,And, hey, if you need anything, you can always come to Joey.
+
+Dialogue: 0,0:07:28.78,0:07:30.80,eng,,0,0,0,,Me and Chandler live right across the hall.
+
+Dialogue: 0,0:07:30.81,0:07:32.24,eng,,0,0,0,,And he's away a lot.
+
+Dialogue: 0,0:07:34.08,0:07:35.44,eng,,0,0,0,,Joey, stop hitting on her.
+
+Dialogue: 0,0:07:35.45,0:07:36.72,eng,,0,0,0,, It's her wedding day.
+
+Dialogue: 0,0:07:37.16,0:07:39.32,eng,,0,0,0,,What? Like there's a rule or something?
+
+Dialogue: 0,0:07:41.33,0:07:44.88,eng,,0,0,0,,Please don't do that again. It's a horrible sound.
+
+Dialogue: 0,0:07:45.04,0:07:47.52,eng,,0,0,0,,-Uh, it's Paul.  -Buzz him in.
+
+Dialogue: 0,0:07:47.76,0:07:50.20,eng,,0,0,0,,-Who's Paul?  -Paul, the wine guy, Paul?
+
+Dialogue: 0,0:07:50.48,0:07:51.28,eng,,0,0,0,,Maybe.
+
+Dialogue: 0,0:07:51.31,0:07:53.60,eng,,0,0,0,,Wait a minute. Your "not a real date" is with
+
+Dialogue: 0,0:07:53.61,0:07:54.88,eng,,0,0,0,,Paul, the wine guy?
+
+Dialogue: 0,0:07:55.08,0:07:57.00,eng,,0,0,0,,-He finally asked you out?  -Yes.
+
+Dialogue: 0,0:07:57.01,0:07:59.00,eng,,0,0,0,,Ooh. This is a "Dear Diary" moment.
+
+Dialogue: 0,0:08:00.31,0:08:01.96,eng,,0,0,0,,Rach, wait, I can cancel.
+
+Dialogue: 0,0:08:02.16,0:08:03.96,eng,,0,0,0,,Please, no. Go, I'll be fine.
+
+Dialogue: 0,0:08:04.60,0:08:07.32,eng,,0,0,0,,Ross, are you okay? I mean, do you want me to stay?
+
+Dialogue: 0,0:08:08.68,0:08:10.00,eng,,0,0,0,,That'd be good.
+
+Dialogue: 0,0:08:11.11,0:08:14.96,eng,,0,0,0,,-Really?  -No, go on! It's Paul, the wine guy.
+
+Dialogue: 0,0:08:18.70,0:08:21.20,eng,,0,0,0,,Hi, come in, Paul this is...
+
+Dialogue: 0,0:08:22.20,0:08:24.64,eng,,0,0,0,,...everybody. Everybody, this is Paul.
+
+Dialogue: 0,0:08:24.92,0:08:26.12,eng,,0,0,0,,Paul, the wine guy.
+
+Dialogue: 0,0:08:26.32,0:08:30.16,eng,,0,0,0,,-Wine guy.  -I didn't catch your name. Paul, was it?
+
+Dialogue: 0,0:08:30.24,0:08:33.12,eng,,0,0,0,,Okay. Sit down. Two seconds.
+
+Dialogue: 0,0:08:37.22,0:08:40.40,eng,,0,0,0,,Ooh, I just pulled out four eyelashes. That can't be good.
+
+Dialogue: 0,0:08:42.96,0:08:44.76,eng,,0,0,0,,So, Rachel, what are you up to tonight?
+
+Dialogue: 0,0:08:45.36,0:08:49.56,eng,,0,0,0,,Well, I was supposed to be headed for Aruba on my honeymoon...
+
+Dialogue: 0,0:08:49.57,0:08:50.72,eng,,0,0,0,,...so, nothing.
+
+Dialogue: 0,0:08:52.92,0:08:55.23,eng,,0,0,0,,Right. You're not even getting your honeymoon.
+
+Dialogue: 0,0:08:55.24,0:08:59.56,eng,,0,0,0,,God. No, no. Although, Aruba. Heh. This time of year? Eh.
+
+Dialogue: 0,0:08:59.57,0:09:00.56,eng,,0,0,0,,Talk about your...
+
+Dialogue: 0,0:09:02.12,0:09:03.60,eng,,0,0,0,,...big lizards.
+
+Dialogue: 0,0:09:07.96,0:09:10.76,eng,,0,0,0,,Anyway, if you don't feel like being alone tonight...
+
+Dialogue: 0,0:09:10.96,0:09:13.88,eng,,0,0,0,,...Joey and Chandler are helping me with my furniture.
+
+Dialogue: 0,0:09:13.89,0:09:16.24,eng,,0,0,0,,Yes, and we're very excited about it.
+
+Dialogue: 0,0:09:17.48,0:09:20.96,eng,,0,0,0,,Actually, thanks, but I'm just gonna hang out here tonight.
+
+Dialogue: 0,0:09:20.97,0:09:23.08,eng,,0,0,0,,-It's been a long day.  -Oh, sure. Okay. Sure.
+
+Dialogue: 0,0:09:23.24,0:09:24.56,eng,,0,0,0,,Hey, Pheebs, you wanna help?
+
+Dialogue: 0,0:09:24.68,0:09:26.72,eng,,0,0,0,,Oh, I wish I could, but I don't want to.
+
+Dialogue: 0,0:09:34.92,0:09:39.28,eng,,0,0,0,,I'm supposed to attach a bracket-y thing to the side things...
+
+Dialogue: 0,0:09:39.45,0:09:42.32,eng,,0,0,0,,...using a bunch of these little worm guys.
+
+Dialogue: 0,0:09:43.48,0:09:48.16,eng,,0,0,0,,I have no bracket-y thing, I see no worm guys whatsoever...
+
+Dialogue: 0,0:09:48.44,0:09:51.28,eng,,0,0,0,,...and I cannot feel my legs.
+
+Dialogue: 0,0:09:53.00,0:09:54.12,eng,,0,0,0,,What's this?
+
+Dialogue: 0,0:09:54.36,0:09:57.32,eng,,0,0,0,,I have no idea.
+
+Dialogue: 0,0:09:59.16,0:10:01.12,eng,,0,0,0,,-Done with the bookcase.  -All finished.
+
+Dialogue: 0,0:10:05.24,0:10:07.04,eng,,0,0,0,,This was Carol's favorite beer.
+
+Dialogue: 0,0:10:09.24,0:10:12.40,eng,,0,0,0,,She always drank it out of the can. I should have known.
+
+Dialogue: 0,0:10:13.52,0:10:14.96,eng,,0,0,0,,Ross, let me ask you a question.
+
+Dialogue: 0,0:10:14.97,0:10:19.45,eng,,0,0,0,,She got the furniture, the stereo, the good TV.
+
+Dialogue: 0,0:10:19.61,0:10:20.66,eng,,0,0,0,,What did you get?
+
+Dialogue: 0,0:10:21.52,0:10:22.18,eng,,0,0,0,,You guys.
+
+Dialogue: 0,0:10:22.20,0:10:24.28,eng,,0,0,0,,-Oh, God. Oh, my God.  -You got screwed.
+
+Dialogue: 0,0:10:24.60,0:10:28.48,eng,,0,0,0,,-Oh, my God.  -I know, I know. I'm such an idiot.
+
+Dialogue: 0,0:10:29.48,0:10:31.76,eng,,0,0,0,,I guess I should've caught on when she went to the dentist
+
+Dialogue: 0,0:10:31.77,0:10:33.88,eng,,0,0,0,,...four and five times a week.
+
+Dialogue: 0,0:10:34.08,0:10:36.25,eng,,0,0,0,,I mean, how clean can teeth get?
+
+Dialogue: 0,0:10:36.48,0:10:39.00,eng,,0,0,0,,My brother's going through that. He's such a mess.
+
+Dialogue: 0,0:10:39.01,0:10:40.68,eng,,0,0,0,,How did you get through it?
+
+Dialogue: 0,0:10:40.89,0:10:44.39,eng,,0,0,0,,He might try accidentally breaking something valuable of hers.
+
+Dialogue: 0,0:10:44.68,0:10:46.04,eng,,0,0,0,,-Say her...  -Leg?
+
+Dialogue: 0,0:10:46.36,0:10:48.32,eng,,0,0,0,,That's one way of going through it, yeah.
+
+Dialogue: 0,0:10:48.77,0:10:50.36,eng,,0,0,0,,Me, I went for the watch.
+
+Dialogue: 0,0:10:50.92,0:10:52.72,eng,,0,0,0,,-You actually broke her watch?  -Mm.
+
+Dialogue: 0,0:10:53.28,0:10:56.52,eng,,0,0,0,,Barry, I'm sorry. I am so sorry.
+
+Dialogue: 0,0:10:56.61,0:11:01.53,eng,,0,0,0,,You probably think it's about making love with your socks on, but it isn't.
+
+Dialogue: 0,0:11:01.70,0:11:04.08,eng,,0,0,0,,It isn't, it's about me. And I...
+
+Dialogue: 0,0:11:11.58,0:11:14.12,eng,,0,0,0,,Hi. Machine cut me off again. Anyway...
+
+Dialogue: 0,0:11:16.44,0:11:18.26,eng,,0,0,0,,You know what's scary?
+
+Dialogue: 0,0:11:18.27,0:11:20.60,eng,,0,0,0,,What if there's only one woman for everybody?
+
+Dialogue: 0,0:11:20.72,0:11:23.72,eng,,0,0,0,,I mean, what if you get one woman, and that's it?
+
+Dialogue: 0,0:11:24.20,0:11:28.60,eng,,0,0,0,,Unfortunately, in my case, there was only one woman for her.
+
+Dialogue: 0,0:11:29.56,0:11:32.52,eng,,0,0,0,,What are you talking about? One woman.
+
+Dialogue: 0,0:11:33.40,0:11:37.08,eng,,0,0,0,,That's like saying there's only one flavor of ice cream for you.
+
+Dialogue: 0,0:11:37.19,0:11:40.56,eng,,0,0,0,,Let me tell you something, Ross. There's lots of flavors out there.
+
+Dialogue: 0,0:11:40.57,0:11:44.04,eng,,0,0,0,,There's rocky road and cookie dough and...
+
+Dialogue: 0,0:11:44.05,0:11:45.68,eng,,0,0,0,,...bing cherry vanilla.
+
+Dialogue: 0,0:11:46.20,0:11:50.70,eng,,0,0,0,,You can get them with jimmies or nuts or whipped cream.
+
+Dialogue: 0,0:11:51.04,0:11:53.62,eng,,0,0,0,,This is the best thing that ever happened to you.
+
+Dialogue: 0,0:11:53.84,0:11:56.76,eng,,0,0,0,,You got married. You were like, what, 8?
+
+Dialogue: 0,0:11:58.72,0:12:02.36,eng,,0,0,0,,Welcome back to the world. Grab a spoon.
+
+Dialogue: 0,0:12:02.84,0:12:05.99,eng,,0,0,0,,I honestly don't know if I'm hungry or horny.
+
+Dialogue: 0,0:12:06.00,0:12:08.00,eng,,0,0,0,,Then stay out of my freezer.
+
+Dialogue: 0,0:12:10.93,0:12:13.68,eng,,0,0,0,,Ever since she walked out on me, I...
+
+Dialogue: 0,0:12:14.69,0:12:16.76,eng,,0,0,0,,What? What?
+
+Dialogue: 0,0:12:17.12,0:12:18.72,eng,,0,0,0,,You wanna spell it out with noodles?
+
+Dialogue: 0,0:12:18.86,0:12:22.48,eng,,0,0,0,,No, it's more of a fifth date kind of revelation.
+
+Dialogue: 0,0:12:23.24,0:12:26.36,eng,,0,0,0,,Oh, so there's gonna be a fifth date?
+
+Dialogue: 0,0:12:27.83,0:12:28.64,eng,,0,0,0,,Isn't there?
+
+Dialogue: 0,0:12:29.70,0:12:31.92,eng,,0,0,0,,Yeah, yeah. I think there is.
+
+Dialogue: 0,0:12:33.24,0:12:34.76,eng,,0,0,0,,What were you gonna say?
+
+Dialogue: 0,0:12:40.34,0:12:42.64,eng,,0,0,0,,Ever since she left me...
+
+Dialogue: 0,0:12:43.76,0:12:46.20,eng,,0,0,0,,...I haven't been able to perform...
+
+Dialogue: 0,0:12:47.22,0:12:48.08,eng,,0,0,0,,...sexually.
+
+Dialogue: 0,0:12:51.24,0:12:52.88,eng,,0,0,0,,Oh, God! I am so...
+
+Dialogue: 0,0:12:53.16,0:12:54.32,eng,,0,0,0,,-I'm so sorry.  -It's okay.
+
+Dialogue: 0,0:12:54.44,0:12:57.04,eng,,0,0,0,,Being spit on is probably not what you need right now.
+
+Dialogue: 0,0:13:00.44,0:13:01.60,eng,,0,0,0,,How long?
+
+Dialogue: 0,0:13:01.96,0:13:03.44,eng,,0,0,0,,Two years.
+
+Dialogue: 0,0:13:05.48,0:13:08.48,eng,,0,0,0,,I'm glad you smashed her watch.
+
+Dialogue: 0,0:13:10.44,0:13:13.88,eng,,0,0,0,,So you still think you might want that fifth date?
+
+Dialogue: 0,0:13:16.79,0:13:17.84,eng,,0,0,0,,Yeah.
+
+Dialogue: 0,0:13:18.50,0:13:19.72,eng,,0,0,0,,Yeah, I do.
+
+Dialogue: 0,0:13:21.55,0:13:25.08,eng,,0,0,0,,I, Joanie, take you, Charles, as my lawful husband.
+
+Dialogue: 0,0:13:27.36,0:13:28.48,eng,,0,0,0,,Oh! See.
+
+Dialogue: 0,0:13:28.64,0:13:31.16,eng,,0,0,0,,But Joanie loved Chachi.
+
+Dialogue: 0,0:13:31.36,0:13:33.40,eng,,0,0,0,,That's the difference.
+
+Dialogue: 0,0:13:35.40,0:13:36.84,eng,,0,0,0,,"Grab a spoon."
+
+Dialogue: 0,0:13:37.10,0:13:39.68,eng,,0,0,0,,Do you know long it's been since I grabbed a spoon?
+
+Dialogue: 0,0:13:40.36,0:13:43.00,eng,,0,0,0,,Do the words, "Billy, don't be a hero," mean anything to you?
+
+Dialogue: 0,0:13:45.12,0:13:49.52,eng,,0,0,0,,You know, here's the thing. Even if I could get it together enough...
+
+Dialogue: 0,0:13:49.53,0:13:51.36,eng,,0,0,0,,...to ask a woman out...
+
+Dialogue: 0,0:13:53.00,0:13:54.36,eng,,0,0,0,,...who am I gonna ask?
+
+Dialogue: 0,0:14:16.60,0:14:17.99,eng,,0,0,0,,Isn't this amazing?
+
+Dialogue: 0,0:14:18.00,0:14:20.48,eng,,0,0,0,,I mean, I have never made coffee before in my life.
+
+Dialogue: 0,0:14:20.65,0:14:23.24,eng,,0,0,0,,-That is amazing.  -Congratulations.
+
+Dialogue: 0,0:14:23.36,0:14:27.56,eng,,0,0,0,,While you're on a roll, if you feel like you gotta make a Western omelet or something...
+
+Dialogue: 0,0:14:31.04,0:14:33.60,eng,,0,0,0,,Although, actually I'm really not that hungry this morning.
+
+Dialogue: 0,0:14:35.37,0:14:36.70,eng,,0,0,0,,-Good morning.  -Good morning.
+
+Dialogue: 0,0:14:36.87,0:14:37.60,eng,,0,0,0,,Morning.
+
+Dialogue: 0,0:14:39.64,0:14:41.68,eng,,0,0,0,,-Morning.  -Morning, Paul.
+
+Dialogue: 0,0:14:41.88,0:14:44.40,eng,,0,0,0,,-Hello, Paul.  -Hi. Paul, is it?
+
+Dialogue: 0,0:14:48.96,0:14:51.24,eng,,0,0,0,,I had a really great time last night.
+
+Dialogue: 0,0:14:52.00,0:14:54.24,eng,,0,0,0,,Thank you. Thank you so much.
+
+Dialogue: 0,0:14:54.52,0:14:56.72,eng,,0,0,0,,-We'll talk later, okay?  -Yeah.
+
+Dialogue: 0,0:15:02.15,0:15:03.04,eng,,0,0,0,,Thank you.
+
+Dialogue: 0,0:15:09.92,0:15:11.76,eng,,0,0,0,,That wasn't a real date.
+
+Dialogue: 0,0:15:13.32,0:15:15.48,eng,,0,0,0,,What the hell do you do on a real date?
+
+Dialogue: 0,0:15:17.12,0:15:19.68,eng,,0,0,0,,-Shut up and put my table back.  -Okay.
+
+Dialogue: 0,0:15:20.66,0:15:22.56,eng,,0,0,0,,All right, kids, I gotta get to work.
+
+Dialogue: 0,0:15:22.75,0:15:25.47,eng,,0,0,0,,If I don't input those numbers
+
+Dialogue: 0,0:15:25.48,0:15:27.68,eng,,0,0,0,,it doesn't make much of a difference.
+
+Dialogue: 0,0:15:31.30,0:15:33.76,eng,,0,0,0,,So, like, you guys all have jobs?
+
+Dialogue: 0,0:15:34.22,0:15:35.96,eng,,0,0,0,,Yeah, we all have jobs.
+
+Dialogue: 0,0:15:36.10,0:15:38.80,eng,,0,0,0,,See, that's how we buy stuff.
+
+Dialogue: 0,0:15:40.35,0:15:41.72,eng,,0,0,0,,Yeah, I'm an actor.
+
+Dialogue: 0,0:15:41.85,0:15:44.16,eng,,0,0,0,,Would I have seen you in anything?
+
+Dialogue: 0,0:15:44.27,0:15:46.68,eng,,0,0,0,,Oh, I doubt it. Mostly regional work.
+
+Dialogue: 0,0:15:46.82,0:15:50.48,eng,,0,0,0,,Unless you happened to catch the Wee One's production of Pinocchio.
+
+Dialogue: 0,0:15:50.72,0:15:53.28,eng,,0,0,0,,"Look, Geppeto. I'm a real live boy."
+
+Dialogue: 0,0:15:56.03,0:15:58.08,eng,,0,0,0,,I will not take this abuse.
+
+Dialogue: 0,0:15:58.09,0:15:59.60,eng,,0,0,0,,You're right. I'm sorry.
+
+Dialogue: 0,0:16:00.33,0:16:03.12,eng,,0,0,0,,Once I was a wooden boy. A little wooden boy
+
+Dialogue: 0,0:16:07.16,0:16:09.56,eng,,0,0,0,,So how are you doing today? Did you sleep okay?
+
+Dialogue: 0,0:16:09.80,0:16:13.01,eng,,0,0,0,,Did you talk to Barry? I can't stop smiling.
+
+Dialogue: 0,0:16:13.80,0:16:17.48,eng,,0,0,0,,I can see that. You look like you slept with a hanger in your mouth.
+
+Dialogue: 0,0:16:22.94,0:16:26.00,eng,,0,0,0,,I know. He's just so...
+
+Dialogue: 0,0:16:26.56,0:16:28.20,eng,,0,0,0,,Remember you and Tony De Marco?
+
+Dialogue: 0,0:16:28.32,0:16:31.80,eng,,0,0,0,,-Oh, yeah.  -Well, it's like that. With feelings.
+
+Dialogue: 0,0:16:33.20,0:16:35.24,eng,,0,0,0,,Oh, wow, are you in trouble!
+
+Dialogue: 0,0:16:35.53,0:16:39.32,eng,,0,0,0,,Okay, okay. I am just going to get up, go to work...
+
+Dialogue: 0,0:16:39.49,0:16:41.20,eng,,0,0,0,,...and not think about him all day.
+
+Dialogue: 0,0:16:42.37,0:16:44.60,eng,,0,0,0,,Or else I'm just gonna get up and go to work.
+
+Dialogue: 0,0:16:45.50,0:16:47.20,eng,,0,0,0,,-Oh, wish me luck!  -What for?
+
+Dialogue: 0,0:16:47.33,0:16:50.72,eng,,0,0,0,,I'm gonna go get one of those job things.
+
+Dialogue: 0,0:16:58.60,0:17:01.28,eng,,0,0,0,,-Hey, Monica.  -Hey, Franny. Welcome back.
+
+Dialogue: 0,0:17:01.39,0:17:02.89,eng,,0,0,0,,How was Florida?
+
+Dialogue: 0,0:17:03.06,0:17:04.44,eng,,0,0,0,,You had sex, didn't you?
+
+Dialogue: 0,0:17:06.56,0:17:07.64,eng,,0,0,0,,How do you do that?
+
+Dialogue: 0,0:17:08.44,0:17:12.28,eng,,0,0,0,,-So, who?  -You know Paul?
+
+Dialogue: 0,0:17:12.78,0:17:14.40,eng,,0,0,0,,Paul, the wine guy?
+
+Dialogue: 0,0:17:14.64,0:17:16.20,eng,,0,0,0,,Oh, yeah, I know Paul.
+
+Dialogue: 0,0:17:18.80,0:17:21.24,eng,,0,0,0,,You mean, you know Paul like I know Paul?
+
+Dialogue: 0,0:17:21.52,0:17:23.92,eng,,0,0,0,,Are you kidding? I take credit for Paul.
+
+Dialogue: 0,0:17:24.04,0:17:28.04,eng,,0,0,0,,Before me, there was no snap in his turtle for two years.
+
+Dialogue: 0,0:17:31.32,0:17:33.48,eng,,0,0,0,,Of course it was a line.
+
+Dialogue: 0,0:17:34.24,0:17:36.92,eng,,0,0,0,,Why? Why would anybody do something like that?
+
+Dialogue: 0,0:17:37.12,0:17:40.30,eng,,0,0,0,,We're looking for an answer more sophisticated than:
+
+Dialogue: 0,0:17:40.48,0:17:42.44,eng,,0,0,0,,"To get you into bed."
+
+Dialogue: 0,0:17:43.35,0:17:45.02,eng,,0,0,0,,Is it me?
+
+Dialogue: 0,0:17:45.18,0:17:48.12,eng,,0,0,0,,Is it like I have some sort of beacon that...
+
+Dialogue: 0,0:17:48.13,0:17:51.60,eng,,0,0,0,,...only dogs and men with severe emotional problems can hear?
+
+Dialogue: 0,0:17:51.76,0:17:53.76,eng,,0,0,0,,All right, come here. Give me your feet.
+
+Dialogue: 0,0:18:01.16,0:18:03.04,eng,,0,0,0,,I just thought he was nice, you know?
+
+Dialogue: 0,0:18:05.87,0:18:08.40,eng,,0,0,0,,I can't believe you didn't know it was a line.
+
+Dialogue: 0,0:18:13.21,0:18:14.25,eng,,0,0,0,,Guess what.
+
+Dialogue: 0,0:18:14.42,0:18:16.24,eng,,0,0,0,,-You got a job?  -Are you kidding?
+
+Dialogue: 0,0:18:16.38,0:18:18.12,eng,,0,0,0,,I'm trained for nothing.
+
+Dialogue: 0,0:18:20.00,0:18:21.96,eng,,0,0,0,,I was laughed out of 12 interviews today.
+
+Dialogue: 0,0:18:22.10,0:18:23.72,eng,,0,0,0,,Yet you're surprisingly upbeat.
+
+Dialogue: 0,0:18:23.92,0:18:27.60,eng,,0,0,0,,Well, you would be too if you found Joan and David boots on sale...
+
+Dialogue: 0,0:18:27.61,0:18:29.32,eng,,0,0,0,,...50 percent off.
+
+Dialogue: 0,0:18:29.56,0:18:31.36,eng,,0,0,0,,Oh, how well you know me.
+
+Dialogue: 0,0:18:32.94,0:18:35.72,eng,,0,0,0,,They're my new "I don't need a job or my parents.
+
+Dialogue: 0,0:18:35.73,0:18:37.84,eng,,0,0,0,,I've got great boots" boots.
+
+Dialogue: 0,0:18:39.16,0:18:40.12,eng,,0,0,0,,How'd you pay for them?
+
+Dialogue: 0,0:18:40.64,0:18:41.40,eng,,0,0,0,,Credit card.
+
+Dialogue: 0,0:18:41.91,0:18:43.40,eng,,0,0,0,,And who pays for that?
+
+Dialogue: 0,0:18:44.24,0:18:46.32,eng,,0,0,0,,Um, my father.
+
+Dialogue: 0,0:18:48.91,0:18:51.00,eng,,0,0,0,,You can't live off your parents your whole life.
+
+Dialogue: 0,0:18:51.01,0:18:54.44,eng,,0,0,0,,I know that. That's why I was getting married.
+
+Dialogue: 0,0:18:55.34,0:18:58.04,eng,,0,0,0,,Give her a break. It's hard being on your own for the first time.
+
+Dialogue: 0,0:18:58.51,0:19:00.08,eng,,0,0,0,,-Thank you.  -You're welcome.
+
+Dialogue: 0,0:19:00.18,0:19:02.89,eng,,0,0,0,,I remember when I first came to this city, I was 14.
+
+Dialogue: 0,0:19:03.05,0:19:05.68,eng,,0,0,0,,My mom had killed herself and my step-dad was back in prison.
+
+Dialogue: 0,0:19:06.10,0:19:08.28,eng,,0,0,0,,And I got here, and I didn't know anybody.
+
+Dialogue: 0,0:19:08.40,0:19:11.84,eng,,0,0,0,,I ended up living with this albino guy who was cleaning windshields...
+
+Dialogue: 0,0:19:11.85,0:19:14.36,eng,,0,0,0,,...outside Port Authority. And then he killed himself.
+
+Dialogue: 0,0:19:16.40,0:19:20.32,eng,,0,0,0,,And then I found aromatherapy. So believe me, I know exactly how you feel.
+
+Dialogue: 0,0:19:24.40,0:19:26.80,eng,,0,0,0,,The word you're looking for is:
+
+Dialogue: 0,0:19:27.80,0:19:29.04,eng,,0,0,0,,"Anyway..."
+
+Dialogue: 0,0:19:33.13,0:19:34.40,eng,,0,0,0,,All right. You ready?
+
+Dialogue: 0,0:19:34.42,0:19:36.16,eng,,0,0,0,,-I don't think so.  -Oh, come on.
+
+Dialogue: 0,0:19:36.60,0:19:37.96,eng,,0,0,0,,Cut. Cut.
+
+Dialogue: 0,0:19:38.09,0:19:39.84,eng,,0,0,0,,Cut, cut, cut.
+
+Dialogue: 0,0:19:45.85,0:19:47.56,eng,,0,0,0,,Welcome to the real world.
+
+Dialogue: 0,0:19:47.64,0:19:49.76,eng,,0,0,0,,It sucks. You're gonna love it.
+
+Dialogue: 0,0:19:57.32,0:20:00.88,eng,,0,0,0,,Well, that's it. You gonna crash on the couch?
+
+Dialogue: 0,0:20:00.99,0:20:04.36,eng,,0,0,0,,-No. No, I gotta go home sometime.  -Are you gonna be okay?
+
+Dialogue: 0,0:20:04.49,0:20:05.64,eng,,0,0,0,,Yeah.
+
+Dialogue: 0,0:20:06.96,0:20:09.00,eng,,0,0,0,,Look what I just found on the floor.
+
+Dialogue: 0,0:20:11.08,0:20:12.04,eng,,0,0,0,,What?
+
+Dialogue: 0,0:20:12.92,0:20:14.48,eng,,0,0,0,,That's Paul's watch.
+
+Dialogue: 0,0:20:14.92,0:20:16.72,eng,,0,0,0,,You can just put it back where you found it.
+
+Dialogue: 0,0:20:18.44,0:20:22.60,eng,,0,0,0,,Oh, boy. All right. Good night, everybody.
+
+Dialogue: 0,0:20:34.28,0:20:35.60,eng,,0,0,0,,-Oh, sorry.  -No. Oh, no. Go.
+
+Dialogue: 0,0:20:35.69,0:20:37.52,eng,,0,0,0,,-No, have it, really.  -Split it?
+
+Dialogue: 0,0:20:37.84,0:20:39.48,eng,,0,0,0,,-Okay.  -Okay.
+
+Dialogue: 0,0:20:43.49,0:20:46.60,eng,,0,0,0,,You probably didn't know this, but back in high school I had...
+
+Dialogue: 0,0:20:47.48,0:20:49.12,eng,,0,0,0,,...a major crush on you.
+
+Dialogue: 0,0:20:50.54,0:20:51.70,eng,,0,0,0,,I knew.
+
+Dialogue: 0,0:20:52.08,0:20:53.64,eng,,0,0,0,,You did?
+
+Dialogue: 0,0:20:55.40,0:20:58.20,eng,,0,0,0,,I figured you thought I was Monica's geeky older brother.
+
+Dialogue: 0,0:20:59.08,0:20:59.80,eng,,0,0,0,,I did.
+
+Dialogue: 0,0:21:05.56,0:21:06.60,eng,,0,0,0,,Listen, do you think...
+
+Dialogue: 0,0:21:07.64,0:21:11.12,eng,,0,0,0,,And try not to let my vulnerability become any kind of a factor here.
+
+Dialogue: 0,0:21:13.00,0:21:16.12,eng,,0,0,0,,Do you think it would be okay if I ask you out sometime, maybe?
+
+Dialogue: 0,0:21:18.23,0:21:19.52,eng,,0,0,0,,Yeah.
+
+Dialogue: 0,0:21:20.52,0:21:21.92,eng,,0,0,0,,Maybe.
+
+Dialogue: 0,0:21:22.96,0:21:24.08,eng,,0,0,0,,Okay.
+
+Dialogue: 0,0:21:29.60,0:21:31.92,eng,,0,0,0,,Okay, maybe I will.
+
+Dialogue: 0,0:21:35.92,0:21:37.48,eng,,0,0,0,,-Good night.  -Good night.
+
+Dialogue: 0,0:21:51.56,0:21:52.84,eng,,0,0,0,,See you.
+
+Dialogue: 0,0:21:54.93,0:21:57.44,eng,,0,0,0,,Wait, wait. Hey, what's with you?
+
+Dialogue: 0,0:21:59.65,0:22:01.64,eng,,0,0,0,,I just grabbed a spoon.
+
+Dialogue: 0,0:22:10.52,0:22:12.28,eng,,0,0,0,,I can't believe what I'm hearing here.
+
+Dialogue: 0,0:22:12.29,0:22:13.92,eng,,0,0,0,,I can't believe What I'm hearing here
+
+Dialogue: 0,0:22:14.04,0:22:16.28,eng,,0,0,0,,-What? I said you had...  -What? I said you had...
+
+Dialogue: 0,0:22:17.29,0:22:18.44,eng,,0,0,0,,Would you stop?
+
+Dialogue: 0,0:22:19.00,0:22:19.95,eng,,0,0,0,,Oh, was I doing it again?
+
+Dialogue: 0,0:22:19.96,0:22:21.79,eng,,0,0,0,,Yes.
+
+Dialogue: 0,0:22:22.84,0:22:24.44,eng,,0,0,0,,Would anybody like more coffee?
+
+Dialogue: 0,0:22:26.84,0:22:29.08,eng,,0,0,0,,Did you make it or are you just serving it?
+
+Dialogue: 0,0:22:29.34,0:22:32.00,eng,,0,0,0,,-I'm just serving it.  -I'll have a cup of coffee.
+
+Dialogue: 0,0:22:33.24,0:22:34.76,eng,,0,0,0,,Kids, new dream.
+
+Dialogue: 0,0:22:35.10,0:22:37.60,eng,,0,0,0,,I'm in Las Vegas. I'm Liza Minnelli.
