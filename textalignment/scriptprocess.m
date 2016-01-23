@@ -14,7 +14,7 @@ function [scriptdata, namelist,frequency]=scriptprocess(scrFile)
 
     for i=1:len
         name=container{i}{1};
-        if (isempty(splitpoint{i}))||(~isempty(regexp(name,'\W','start')))  %if there's no name in this row(it cannot be splitted by ":")or a fake name like [scene exists
+        if (isempty(splitpoint{i}))%||(~isempty(regexp(name,'\W','start')))  %if there's no name in this row(it cannot be splitted by ":")or a fake name like [scene exists
             continue;
         end
     %     if(i>1)
